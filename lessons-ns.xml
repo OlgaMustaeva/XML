@@ -1,0 +1,54 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<myns:lessons xmlns:myns = "http://www.itmo.ru/xml/lessons">
+
+    <myns:discipline>
+        <myns:lessonName>Математика</myns:lessonName>
+        <myns:teacher>Степанов</myns:teacher>
+        <myns:classTime>09:00-11:30</myns:classTime>
+        <myns:startDate>2022-09-01</myns:startDate>
+        <myns:endDate>2023-01-15</myns:endDate>
+		
+	
+		<myns:sources>
+		<myns:literature>
+		<myns:book>Простая математика</myns:book>
+		<myns:author>М.И. Лепешкин</myns:author>
+		<myns:year>2014</myns:year>		
+		</myns:literature>
+		</myns:sources>				
+    </myns:discipline>
+	
+	
+    <myns:discipline>
+        <myns:lessonName>Физика</myns:lessonName>
+        <myns:teacher>Петров</myns:teacher>
+        <myns:classTime>12:00-13:30</myns:classTime>
+        <myns:startDate>2022-09-01</myns:startDate>
+        <myns:endDate>2023-01-15</myns:endDate>
+		
+		<myns:sources>
+		<myns:literature>
+		<myns:book>Простая физика</myns:book>
+		<myns:author>Ю.Д. Любушкин</myns:author>
+		<myns:year>2010</myns:year>		
+		</myns:literature>
+		</myns:sources>
+    </myns:discipline>
+	
+	
+    <myns:discipline>
+        <myns:lessonName>История</myns:lessonName>
+        <myns:teacher>Сидоров</myns:teacher>
+        <myns:classTime>14:00-15:30</myns:classTime>
+        <myns:startDate>2022-09-01</myns:startDate>
+        <myns:endDate>2023-01-15</myns:endDate>
+		
+		<myns:sources>
+		<myns:literature>
+		<myns:book>История России</myns:book>
+		<myns:author>Л.О. Львов</myns:author>
+		<myns:year>2019</myns:year>		
+		</myns:literature>
+		</myns:sources>
+    </myns:discipline>
+</myns:lessons>
